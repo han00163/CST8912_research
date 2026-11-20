@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Order>
+  <OrderId>ORD-0001</OrderId>
+  <StoreId>STORE-042</StoreId>
+  <OrderDate>2026-11-15</OrderDate>
+  <Lines>
+    <Line><Sku>MILK-1L</Sku><Quantity>24</Quantity><UnitPrice>1.19</UnitPrice></Line>
+    <Line><Sku>BREAD-WW</Sku><Quantity>12</Quantity><UnitPrice>2.49</UnitPrice></Line>
+    <Line><Sku>COFFEE-250G</Sku><Quantity>6</Quantity><UnitPrice>5.99</UnitPrice></Line>
+  </Lines>
+</Order>
